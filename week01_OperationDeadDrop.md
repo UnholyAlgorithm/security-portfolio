@@ -4,7 +4,7 @@
 A junior intern was given temporary contributor access to deploy a test environment before the weekend. The deployed environment did not follow governance standards, triggering related policy alerts. 
 
 ## Environment
-A live Microsoft Azure training tenant with reader access.
+A live, multi-user Microsoft Azure training tenant with reader access.
 
 ## Investigation
 The core. Numbered steps IN YOUR OWN WORDS: what you looked at, what you found, what you concluded at each step. 6 to 12 screenshots of meaningful moments (portal views, query results, before/after).
